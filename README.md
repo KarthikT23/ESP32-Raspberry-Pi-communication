@@ -14,3 +14,5 @@ Various communication prrotocols implemented between ESP32 and Raspberry Pi 3B+
 [5]	 https://randomnerdtutorials.com/esp32-bh1750-ambient-light-sensor/
 
 [6]  https://www.aranacorp.com/en/udp-communication-between-raspberry-pi-and-esp
+
+[7]	https://iotdesignpro.com/projects/home-security-system-using-raspberry-pi-and-pir-sensor-with-push-notification-alert - Pushbullet example
